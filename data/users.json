@@ -1,0 +1,7 @@
+{
+  "admin": {
+    "hash": "$2a$12$mIr26l8bwdTCb7A7ZaNPc.fSUp7FICZ85IO1kji9xxsBvIQBXCfEa",
+    "expira_em": "2099-12-31T00:00:00.000Z",
+    "tipo": "admin"
+  }
+}
